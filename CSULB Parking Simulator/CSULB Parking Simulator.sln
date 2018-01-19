@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSULB Parking Simulator", "CSULB Parking Simulator.csproj", "{5DCFCA5E-9D45-F156-5CE1-DD813D438712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSULB Parking Simulator.Plugins", "CSULB Parking Simulator.Plugins.csproj", "{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{5DCFCA5E-9D45-F156-5CE1-DD813D438712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCFCA5E-9D45-F156-5CE1-DD813D438712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCFCA5E-9D45-F156-5CE1-DD813D438712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
