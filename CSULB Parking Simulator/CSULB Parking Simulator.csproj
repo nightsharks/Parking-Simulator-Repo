@@ -78,15 +78,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="CSULB Parking Simulator.Plugins.csproj">
-      <Project>{C9268FE6-5D2A-8CDF-FB4B-8F3E262EC390}</Project>
-      <Name>CSULB Parking Simulator.Plugins</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
+    <Compile Include="Assets\_Scripts\CountdownTimer.cs" />
     <Compile Include="Assets\_Scripts\manageScenes.cs" />
     <Compile Include="Assets\_Scripts\pauseButton.cs" />
     <Compile Include="Assets\_Scripts\PlayerController.cs" />
+    <Compile Include="Assets\_Scripts\UIManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\VoxelCars\Readme.txt" />
