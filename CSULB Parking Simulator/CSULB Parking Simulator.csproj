@@ -79,9 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Scripts\CountdownTimer.cs" />
+    <Compile Include="Assets\_Scripts\gameLoops.cs" />
     <Compile Include="Assets\_Scripts\manageScenes.cs" />
+    <Compile Include="Assets\_Scripts\onPark.cs" />
     <Compile Include="Assets\_Scripts\pauseButton.cs" />
     <Compile Include="Assets\_Scripts\PlayerController.cs" />
+    <Compile Include="Assets\_Scripts\resumeButton.cs" />
     <Compile Include="Assets\_Scripts\UIManager.cs" />
   </ItemGroup>
   <ItemGroup>

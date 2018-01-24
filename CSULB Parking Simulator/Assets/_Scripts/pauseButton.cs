@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class pauseButton : MonoBehaviour {
 
-    public void pauseClick(){
-            
+    public GameObject x;
 
+    private void Start()
+    {
+        x.SetActive(true);
+        
     }
 }
